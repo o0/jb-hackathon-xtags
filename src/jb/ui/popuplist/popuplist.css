@@ -1,0 +1,11 @@
+jb-popuplist-item {
+  display: block;
+}
+
+.jb-popuplist-item-hovered {
+  background: #ccc;
+}
+
+.jb-popuplist-item-selected {
+  font-weight: bold;
+}
